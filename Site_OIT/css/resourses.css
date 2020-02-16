@@ -1,0 +1,47 @@
+.main-info-section-top-left-image {
+    background: url(../image/yand.jpg) no-repeat center top /cover;
+}
+
+.main-info-section-bottom-right-image {
+    background: url(../image/whatisnow.png) no-repeat center top /cover;
+}
+
+.main-info-section-bottom-left-image {
+    background: url(../image/corsoitalia.jpg) no-repeat center top /cover;
+}
+
+.main-info-section-top-right-image {
+    background: url(../image/giovanni.jpg) no-repeat center top /cover;
+}
+
+.imagelink-initial-state-image {
+    background: url(../image/turn-right-orange.png) no-repeat center top /cover;
+}
+
+.quotes-section-left-image {
+    background: url(../image/Heart.png) no-repeat center top;
+}
+
+.quotes-section-central-image {
+    background: url(../image/Pencil.png) no-repeat center top;
+}
+
+.quotes-section-right-image {
+    background: url(../image/Flag.png) no-repeat center top;
+}
+
+.contacts-section-left-image {
+    background: url(../image/vk.png) no-repeat center top / cover;
+}
+
+.contacts-section-central-image {
+    background: url(../image/insta.png) no-repeat center top / cover;
+}
+
+.contacts-section-right-image {
+    background: url(../image/userlogo.png) no-repeat center top / cover;
+}
+
+.image-main {
+    background: url(../image/titlepic.jpg) no-repeat center top / cover;
+}
